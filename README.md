@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 As this project is a demo of github it can be deployed on any web server
 
+## How To Contribute
+
+Fork this repository and then issue Pull Requests for review
+
 ### Copyright
 
 2024 Git.Training
