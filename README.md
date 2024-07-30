@@ -8,7 +8,7 @@ This demo project is used to show the different commands of Git
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demo editing
 
 ## Deployment
 
