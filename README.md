@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This demo project is used to show the different commands of Git
+This demo project is used to show the different commands of Git and some exercises with GitHub
 
 ## Purpose
 
